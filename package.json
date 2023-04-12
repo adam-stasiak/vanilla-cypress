@@ -1,0 +1,14 @@
+{
+    "name": "vanilla",
+    "version": "1.0.0",
+    "description": "",
+    "main": "cypress/support/index.js",
+    "scripts": {
+        "test": "cypress open"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "cypress": "^12.9.0"
+    }
+}
